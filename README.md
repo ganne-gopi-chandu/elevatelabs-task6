@@ -19,18 +19,18 @@ This project demonstrates how to implement the **K-Nearest Neighbors (KNN)** alg
 ---
 
 ## Dependencies
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-sqlite3
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+- sqlite3
 
 ## 📊 Example Output
 
-Accuracy for K=3: 93.33%
-Accuracy for K=5: 93.33%
-Accuracy for K=7: 93.33%
-Accuracy for K=10: 93.33%
-Accuracy for K=20: 96.67%
+- Accuracy for K=3: 93.33%
+- Accuracy for K=5: 93.33%
+- Accuracy for K=7: 93.33%
+- Accuracy for K=10: 93.33%
+- Accuracy for K=20: 96.67%
 
